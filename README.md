@@ -37,6 +37,8 @@ Branch vs Transaction Ratings: Identified specific branches with a "Satisfaction
 
 
 📂 Project Structure
+
+
 sql_queries/: [Contains the SQL script used for data transformation in BigQuery.](https://drive.google.com/drive/u/0/folders/1qH3M5-b3BFZWcm7xnFiOjoqLJj5dEaua)
 
 datasets/:[ Data Dictionary explaining the columns and metadata](https://drive.google.com/drive/u/0/folders/1qH3M5-b3BFZWcm7xnFiOjoqLJj5dEaua).
