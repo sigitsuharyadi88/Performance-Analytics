@@ -39,11 +39,11 @@ Branch vs Transaction Ratings: Identified specific branches with a "Satisfaction
 📂 Project Structure
 
 
-sql_queries/: [Contains the SQL script used for data transformation in BigQuery.](https://drive.google.com/drive/u/0/folders/1qH3M5-b3BFZWcm7xnFiOjoqLJj5dEaua)
+sql_queries: [Contains the SQL script used for data transformation in BigQuery.](https://drive.google.com/drive/u/0/folders/1qH3M5-b3BFZWcm7xnFiOjoqLJj5dEaua)
 
-datasets/:[ Data Dictionary explaining the columns and metadata](https://drive.google.com/drive/u/0/folders/1qH3M5-b3BFZWcm7xnFiOjoqLJj5dEaua).
+datasets:[ Data Dictionary explaining the columns and metadata](https://drive.google.com/drive/u/0/folders/1qH3M5-b3BFZWcm7xnFiOjoqLJj5dEaua).
 
-dashboard_link.txt: [Direct link to the interactive Looker Studio report.](https://lookerstudio.google.com/u/0/reporting/4d41e128-34ae-44b1-bcf3-cae8053f03d3/page/ucgrF)
+dashboard_link: [Direct link to the interactive Looker Studio report.](https://lookerstudio.google.com/u/0/reporting/4d41e128-34ae-44b1-bcf3-cae8053f03d3/page/ucgrF)
 
 
 
